@@ -25,3 +25,13 @@ Things you may want to cover:
 
 * ...
 # Practice_JS
+
+Create new rails scaffold using rails new [project_name]
+
+In the frontend folder, mkdir javascript, touch app.js; touch index.html; touch main.css
+
+
+# KEYBOARD__APP
+
+Create keyboard folder mkdir Keyboard, then touch keyboard.js; touch keyboard.css
+Inside index.html  
